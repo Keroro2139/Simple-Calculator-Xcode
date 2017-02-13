@@ -15,7 +15,6 @@ class ViewController: UIViewController {
     var previousNumber : Double = 0
     var changeScreen : Bool = false
     var operate : Int = 0
-    var holdNumber : Double = 0
     var checkOperate : Bool = true
     var keepNumber : Double = 0
     var ans :Double = 0
